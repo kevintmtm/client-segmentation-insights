@@ -19,7 +19,14 @@ Encontrar grupos de clientes con características similares para:
 - `notebooks/` → Notebook principal
 - `docs/` → Documento explicativo
 
-## Cómo ejecutar
+## Dataset
+- Nombre: Bank Marketing
+- Fuente: https://www.kaggle.com/api/v1/datasets/download/henriqueyamahata/bank-marketing
+
+El dataset no se incluye en el repositorio.
+Para reproducir el análisis, descargar el archivo y ubicarlo donde corresponda.
+
+## Como ejecutar
 ```bash
 python -m venv .venv
 # Windows:
